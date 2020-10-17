@@ -24,4 +24,4 @@ A new Flutter project.
 
 # i_am_poor
 
-![i_am_poor](https://github.com/ParthMangi/i_am_rich/blob/main/assets/i_am_poor.gif?raw=true)
+![i_am_poor](https://github.com/ParthMangi/i_am_poor/blob/main/poor.gif?raw=true)
